@@ -8,17 +8,17 @@ This project analyzes sales data from the past five years to identify trends, pa
 - Analyze yearly sales trends
 - Visualize data using graphs
 
-##System Architecture
-Input Data (CSV)
-↓
-Data Cleaning (Pandas)
-↓
-Data Analysis (Grouping, Calculations)
-↓
-Visualization (Matplotlib)
-↓
-Insights / Output
-
+## System Architecture
+ Input Data (CSV)<br>
+        ↓<br>
+  Data Cleaning (Pandas)<br>
+        ↓<br>
+ Data Analysis (Grouping, Calculations)<br>
+        ↓<br>
+ Visualization (Matplotlib)<br>
+        ↓<br>
+ Insights / Output<br>
+ 
 ## ⚙️ Tools Used
 - Python
 - Pandas
