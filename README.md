@@ -35,6 +35,7 @@ This project analyzes sales data from the past five years to identify trends, pa
 ## 📈 Output
 - Year-wise sales analysis
 - Graphs for visualization
+![image alt](https://github.com/Saad07-coder/VAC-Sales_Data_Analysis/blob/447b1f1893b4a1dbd875ef96a7ce82775c55549d/Monthly%20Sales%20Trend.png)
 
 ## 👨‍💻 Author
 Saad Mirza
